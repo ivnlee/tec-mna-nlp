@@ -15,6 +15,10 @@
 
 ### Recursos:
 
-**The Illustrated Transformer**, Blog post by Jay Alammar  http://jalammar.github.io/illustrated-transformer/
+- **Attention Is All You Need**: https://arxiv.org/abs/1706.03762
 
-**Transformer: A Novel Neural Network Architecture for Language Understanding**, Posted by Jakob Uszkoreit  https://ai.googleblog.com/2017/08/transformer-novel-neural-network.html 
+- **BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding**: https://arxiv.org/abs/1810.04805 
+
+- **The Illustrated Transformer**, Blog post by Jay Alammar  http://jalammar.github.io/illustrated-transformer/
+
+- **Transformer: A Novel Neural Network Architecture for Language Understanding**, Posted by Jakob Uszkoreit  https://ai.googleblog.com/2017/08/transformer-novel-neural-network.html
