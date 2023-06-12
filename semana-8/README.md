@@ -22,3 +22,5 @@
 - **The Illustrated Transformer**, Blog post by Jay Alammar  http://jalammar.github.io/illustrated-transformer/
 
 - **Transformer: A Novel Neural Network Architecture for Language Understanding**, Posted by Jakob Uszkoreit  https://ai.googleblog.com/2017/08/transformer-novel-neural-network.html
+
+- **Encoder-Decoder**: https://arxiv.org/abs/1406.1078 
